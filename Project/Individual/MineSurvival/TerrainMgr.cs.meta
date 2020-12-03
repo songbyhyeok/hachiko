@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 5ffe324bffe067444bda47d3db819358
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_SoilPrefab: {fileID: 8035280437537494151, guid: c631610731e91e543b2c883080a2e625,
+      type: 3}
+  - m_GrassPrefab: {fileID: 2390696562334233109, guid: becbe1f41ebeb48469d850b51bbbac77,
+      type: 3}
+  - m_ForestGrassPrefab: {fileID: 7031895095129816955, guid: b09ca6b653532034eba262a8c68967c9,
+      type: 3}
+  - m_TreeApplePrefab: {fileID: 2095073247265502471, guid: b19383894a00cf94c9d76f610c528c01,
+      type: 3}
+  - m_RockPrefab: {fileID: 3579685679279757130, guid: 664db008ba5e7e447a99ca86686a5876,
+      type: 3}
+  - m_Rock1Prefab: {fileID: 2855469614011673153, guid: 54a0a697d3f553b4aaba2fbba465776c,
+      type: 3}
+  - m_Rock2Prefab: {fileID: 13447704656220811, guid: e9f9e49b4f5ac654e9d008b28605c8c7,
+      type: 3}
+  - m_WaterPrefab: {fileID: 5103316789294015850, guid: d73bf5f9c44380f418e0b1b88f59cd58,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
