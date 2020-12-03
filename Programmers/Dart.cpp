@@ -26,9 +26,8 @@ int solution(string dartResult)
 
 		else
 		{
-			int starC = numVec.size() - 2;
-			if (starC < 0)
-				starC = 0;
+			int starC = (numVec.size() - 2);
+			starC = starC < 0 ? 0 : (numVec.size() - 2);
 
 			switch (dartResult[i])
 			{
@@ -63,7 +62,7 @@ int solution(string dartResult)
 
 int main()
 {
-	string dartResult = "1S2D*3T";
+	string dartResult = "1S*2T*3S";
 	cout << solution(dartResult);
 
 	return 0;
